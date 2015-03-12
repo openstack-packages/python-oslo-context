@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1371a2_7958ebfa",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-03-12T14:10:41Z",
+      "side": 0,
+      "message": "why are you removing docs?",
+      "revId": "fbd1e96f7253b8114f62f98a88cf57a6c992e999",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}

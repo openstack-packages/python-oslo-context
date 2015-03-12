@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1371a2_395e73ea",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-03-12T14:10:41Z",
+      "side": 1,
+      "message": "this needs be upstream_version in Delorean spec",
+      "range": {
+        "startLine": 31,
+        "startChar": 35,
+        "endLine": 31,
+        "endChar": 36
+      },
+      "revId": "f54f32bc5f30512d571adbd89dd84edc6b8a3df8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
