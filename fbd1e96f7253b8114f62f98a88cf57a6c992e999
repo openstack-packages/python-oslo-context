@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_76b911e9",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-03-24T11:50:58Z",
+      "side": 0,
+      "message": "you must keep upstream_version in Delorean specs",
+      "revId": "fbd1e96f7253b8114f62f98a88cf57a6c992e999",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
