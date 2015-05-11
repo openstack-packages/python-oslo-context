@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_3e1f94b8",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "bundled egginfo _metadata_ should not be removed,\nFedora guideline implying this previously was corrected:\nhttps://fedorahosted.org/fpc/ticket/488",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_fe417ca9",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "This is obsolete, setup.py now just calls pbr and it doesn\u0027t have those lines, for ages..",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9e37a84c",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "not needed with python-oslo-sphinx \u003e\u003d 2.3.0",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_de3c8031",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "test-requirements.txt is actually not included, only requirements.txt needs to be removed",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5e1890d2",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "%doc README.rst\nis enough, rest of the files doesn\u0027t need to be packaged",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9e0e888a",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "this won\u0027t work for Delorean builds,\n*.egg-info works for both, regular Koji and Delorean builds.",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_be0b847b",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-05-11T22:05:53Z",
+      "side": 1,
+      "message": "empty %changelog in master packaging",
+      "revId": "be7a7ad3c0b0b5490ce25ce03e61eb9e7164b1a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
