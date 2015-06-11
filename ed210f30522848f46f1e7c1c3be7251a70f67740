@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_c7c46561",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-06-11T10:49:33Z",
+      "side": 1,
+      "message": "Shouldn\u0027t it be XXX ?",
+      "range": {
+        "startLine": 6,
+        "startChar": 26,
+        "endLine": 6,
+        "endChar": 27
+      },
+      "revId": "ed210f30522848f46f1e7c1c3be7251a70f67740",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
