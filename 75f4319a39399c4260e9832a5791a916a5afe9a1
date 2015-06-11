@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_e41c047a",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 8
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-06-11T17:47:35Z",
+      "side": 1,
+      "message": "Isn\u0027t this BuildRequirements only?",
+      "range": {
+        "startLine": 18,
+        "startChar": 23,
+        "endLine": 18,
+        "endChar": 33
+      },
+      "revId": "75f4319a39399c4260e9832a5791a916a5afe9a1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "facab960_a42bdc92",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 8
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-06-11T17:47:35Z",
+      "side": 1,
+      "message": "That\u0027s ugly to have as runtime dep, fixtures pulls other BR-only stuff.\n\nBTW neither setuptools nor fixutres are in requirements.txt, so we need some justification in the commit message.\n\nAFAICT oslo_context/fixture is not meant to be used for oslo.context _runtime_ but only for tests in projects using oslo.context, so it does not need to be hard dep.",
+      "revId": "75f4319a39399c4260e9832a5791a916a5afe9a1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
