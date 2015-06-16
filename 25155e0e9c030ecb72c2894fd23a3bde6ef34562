@@ -1,0 +1,7 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Tue, 16 Jun 2015 13:24:59 +0200
+Reviewed-on: https://review.gerrithub.io/232924
+Project: openstack-packages/python-oslo-context
+Branch: refs/heads/rpm-master
