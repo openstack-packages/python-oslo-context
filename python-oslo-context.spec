@@ -57,6 +57,7 @@ rm -fr doc/build/html/.{doctrees,buildinfo}
 %{python2_sitelib}/*.egg-info
 
 %files doc
+%license LICENSE
 %doc doc/build/html
 
 %changelog
