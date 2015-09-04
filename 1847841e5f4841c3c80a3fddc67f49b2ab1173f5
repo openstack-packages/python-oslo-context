@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_fe2b1d92",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-09-04T16:36:18Z",
+      "side": 1,
+      "message": "I\u0027ve seen that, in f22, we have a duplicate provide section. It is fixed if we use %{upstream_version}-%{release}",
+      "revId": "1847841e5f4841c3c80a3fddc67f49b2ab1173f5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_1e31a90b",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-09-04T16:36:18Z",
+      "side": 1,
+      "message": "Missing python_provide",
+      "revId": "1847841e5f4841c3c80a3fddc67f49b2ab1173f5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_be5a754e",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-09-04T16:36:18Z",
+      "side": 1,
+      "message": "There is a typo here, it should have -doc at the end",
+      "range": {
+        "startLine": 75,
+        "startChar": 53,
+        "endLine": 75,
+        "endChar": 55
+      },
+      "revId": "1847841e5f4841c3c80a3fddc67f49b2ab1173f5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
