@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "5ac4a560_97363151",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-12-12T00:19:20Z",
+      "side": 1,
+      "message": "BTW I\u0027m -1 for adding python2-* but since that\u0027s already spread in Fedora, I guess it\u0027s futile to fight it...",
+      "revId": "1847841e5f4841c3c80a3fddc67f49b2ab1173f5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1ae5cdf2_fe2b1d92",
         "filename": "python-oslo-context.spec",
         "patchSetId": 1
