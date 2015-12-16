@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac4a560_8dd9b085",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-12-16T09:23:41Z",
+      "side": 1,
+      "message": "This creates a package named \"doc\", so it should be python-%{pkg_name}-doc",
+      "revId": "5b3a6872d1e436da777dd9c11a9a45fefb00978f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac4a560_ade82c11",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-12-16T09:23:41Z",
+      "side": 1,
+      "message": "Same as above",
+      "range": {
+        "startLine": 55,
+        "startChar": 16,
+        "endLine": 55,
+        "endChar": 19
+      },
+      "revId": "5b3a6872d1e436da777dd9c11a9a45fefb00978f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac4a560_cde3a831",
+        "filename": "python-oslo-context.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-12-16T09:23:41Z",
+      "side": 1,
+      "message": "Same as above",
+      "range": {
+        "startLine": 136,
+        "startChar": 10,
+        "endLine": 136,
+        "endChar": 13
+      },
+      "revId": "5b3a6872d1e436da777dd9c11a9a45fefb00978f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
