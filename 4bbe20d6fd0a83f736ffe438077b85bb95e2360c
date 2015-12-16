@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Submitted-by: Javier Peña <jpena@redhat.com>
+Submitted-at: Wed, 16 Dec 2015 11:22:46 +0100
+Reviewed-on: https://review.gerrithub.io/245172
+Project: openstack-packages/python-oslo-context
+Branch: refs/heads/rpm-master
