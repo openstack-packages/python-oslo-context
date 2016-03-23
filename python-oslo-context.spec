@@ -5,9 +5,11 @@
 %global with_python3 1
 %endif
 
+%{!?upstream_version: %global upstream_version %{version}%{?milestone}}
+
 Name:           python-%{pkg_name}
-Version:        XXX
-Release:        XXX
+Version:        2.2.0
+Release:        1%{?dist}
 Summary:        OpenStack Oslo Context library
 
 License:        ASL 2.0
@@ -141,3 +143,6 @@ rm -rf .testrepository
 %license LICENSE
 %{python2_sitelib}/oslo_context/tests
 %changelog
+* Wed Mar 23 2016 Haikel Guemar <hguemar@fedoraproject.org> 2.2.0-
+- Update to 2.2.0
+
